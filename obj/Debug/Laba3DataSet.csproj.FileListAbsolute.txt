@@ -1,0 +1,15 @@
+C:\Users\MSI-MODERN-14\source\repos\Laba3DataSet\Laba3DataSet\bin\Debug\Laba3DataSet.exe.config
+C:\Users\MSI-MODERN-14\source\repos\Laba3DataSet\Laba3DataSet\bin\Debug\Laba3DataSet.exe
+C:\Users\MSI-MODERN-14\source\repos\Laba3DataSet\Laba3DataSet\bin\Debug\Laba3DataSet.pdb
+C:\Users\MSI-MODERN-14\source\repos\Laba3DataSet\Laba3DataSet\obj\Debug\Laba3DataSet.csproj.AssemblyReference.cache
+C:\Users\MSI-MODERN-14\source\repos\Laba3DataSet\Laba3DataSet\obj\Debug\MainWindow.g.cs
+C:\Users\MSI-MODERN-14\source\repos\Laba3DataSet\Laba3DataSet\obj\Debug\App.g.cs
+C:\Users\MSI-MODERN-14\source\repos\Laba3DataSet\Laba3DataSet\obj\Debug\Laba3DataSet_MarkupCompile.cache
+C:\Users\MSI-MODERN-14\source\repos\Laba3DataSet\Laba3DataSet\obj\Debug\Laba3DataSet_MarkupCompile.lref
+C:\Users\MSI-MODERN-14\source\repos\Laba3DataSet\Laba3DataSet\obj\Debug\MainWindow.baml
+C:\Users\MSI-MODERN-14\source\repos\Laba3DataSet\Laba3DataSet\obj\Debug\Laba3DataSet.g.resources
+C:\Users\MSI-MODERN-14\source\repos\Laba3DataSet\Laba3DataSet\obj\Debug\Laba3DataSet.Properties.Resources.resources
+C:\Users\MSI-MODERN-14\source\repos\Laba3DataSet\Laba3DataSet\obj\Debug\Laba3DataSet.csproj.GenerateResource.cache
+C:\Users\MSI-MODERN-14\source\repos\Laba3DataSet\Laba3DataSet\obj\Debug\Laba3DataSet.csproj.CoreCompileInputs.cache
+C:\Users\MSI-MODERN-14\source\repos\Laba3DataSet\Laba3DataSet\obj\Debug\Laba3DataSet.exe
+C:\Users\MSI-MODERN-14\source\repos\Laba3DataSet\Laba3DataSet\obj\Debug\Laba3DataSet.pdb
